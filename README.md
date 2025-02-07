@@ -121,6 +121,11 @@ Build a book assistant that uses **Qdrant** to store book synopses and retrieve 
 
 ---
 
+## 🔥 Bonus: Web Interface for Langflow API  
+
+Enhance your **Book Assistant** by creating a **web interface** with **HTML** for real-time chat.
+
+
 ## Submission
 
 1. Push your completed Langflow JSON file script to your GitHub repository.
