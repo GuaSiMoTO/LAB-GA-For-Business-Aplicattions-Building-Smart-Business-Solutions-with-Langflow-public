@@ -1,8 +1,20 @@
 # LAB-GA-For-Business-Aplicattions-Building-Smart-Business-Solutions-with-Langflow
 
-## Part 1: Virtual Assistant with Langflow
+![Langflow Logo](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
 
-In this part, you will design a virtual assistant with memory that provides contextual responses and maintains conversational history.
+## Initial Setup
+
+### Requirements
+
+1. Fork and clone the provided GitHub repository into your workspace.
+2. Install the required libraries listed in the `requirements.txt` file.
+3. Ensure you have **Ollama** and langflow installed and running locally.
+
+## Introduction
+
+Welcome to the **Virtual Assistant with Langflow** lab. In this exercise, you will use Langflow’s visual interface to design an interactive virtual assistant that retains conversation context. 
+
+You will learn how to connect nodes to capture user input, store dialogue history, process data files, and generate personalized responses using a language model. This hands-on approach will help you understand how different components integrate to build a robust and adaptable conversational system.
 
 ---
 
@@ -107,4 +119,18 @@ Build a book assistant that uses **Qdrant** to store book synopses and retrieve 
   - *"Recommend me a book with a futuristic setting."*
   - "What is the plot of Dune?"
 
+---
+
+## Submission
+
+1. Push your completed Langflow JSON file script to your GitHub repository.
+2. Create a Pull Request with a description of your implementations.
+
+---
+
+## Additional Resources
+
+- [Langflow Documentation](https://docs.langflow.com/)
+
+![Happy Coding](https://user-images.githubusercontent.com/970858/63899010-c23fc480-c9ea-11e9-84a2-542907e42362.png)
 
