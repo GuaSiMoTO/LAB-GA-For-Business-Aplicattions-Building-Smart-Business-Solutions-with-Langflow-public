@@ -32,7 +32,7 @@ You will learn how to connect nodes to capture user input, store dialogue histor
 3. Connect the **Chat Input** node to the **Memory** node to pass user queries through the memory.
 
 ---
-## Iteration 3: Adding File Input and Parsing Data
+### Iteration 3: Adding File Input and Parsing Data
 
 1. Add a **File** node in **Data** component to allow the assistant to load the `book_store.json` file. 
    - Configure the **File** node to accept `.json` files.
