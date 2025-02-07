@@ -67,6 +67,8 @@ AI:
 1. Test the flow by interacting with the assistant through the **Chat Input** node.
 2. Verify that the assistant retains context and provides personalized, accurate responses based on previous exchanges.
 
+---
+
 ### Iteration 7: Build a RAG for a book assistant 
 
 
