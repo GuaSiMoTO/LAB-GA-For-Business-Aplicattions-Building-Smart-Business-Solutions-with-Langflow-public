@@ -81,46 +81,6 @@ AI:
 
 ---
 
-### Iteration 7: Build a RAG for a book assistant 
-
-
-Build a book assistant that uses **Qdrant** to store book synopses and retrieve relevant information through vector search.
-
-#### 1. Preparing the Book Dataset
-
-**Searching or Generating Data:**
-
-- **Option A:** Search for a dataset in repositories like Kaggle.
-- **Option B:** Generate synopses with AI (e.g., ChatGPT or GPT-4) for 30+ popular books.
-
-**Example of Synopsis (JSON Format):**
-
-```json
-[
-    {
-        "title": "Dune",
-        "synopsis": "In a distant future, the struggle for control of the desert planet Arrakis is at the center of a complex political and ecological plot."
-    },
-    {
-        "title": "Neuromancer",
-        "synopsis": "A hacker ventures into cyberspace and faces powerful corporations in a dystopian world."
-    }
-]
-```
-
-#### 2. Add the Books to Qdrant
-
-#### 3. Design the RAG Flow in Langflow
-
-#### 4. Testing and Validation
-
-- Run the flow in Langflow.
-- Test queries such as:
-  - *"Recommend me a book with a futuristic setting."*
-  - "What is the plot of Dune?"
-
----
-
 ## 🔥 Bonus: Web Interface for Langflow API  
 
 Enhance your **Book Assistant** by creating a **web interface** with **HTML** for real-time chat.
