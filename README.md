@@ -91,7 +91,8 @@ Enhance your **Book Assistant** by creating a **web interface** with **HTML** fo
 1. Push your completed Langflow JSON file script to your GitHub repository.
 2. Create a Pull Request with a description of your implementations.
 
----
+![Screenshot from 2025-07-04 14-27-03](https://github.com/user-attachments/assets/2f109f45-e2a7-43b8-b025-aec165a6896e)
+
 
 ## Additional Resources
 
